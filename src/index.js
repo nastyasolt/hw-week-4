@@ -9,7 +9,9 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Weather />
-    
+    <a href="https://github.com/nastyasolt/hw-week-4" target="/blank">
+      Open-source code
+    </a>
   </React.StrictMode>
 );
 
